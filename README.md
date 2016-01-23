@@ -1,7 +1,7 @@
 # DATA_STRUCTURES
 Scripts overviewing data structures in Java, PHP, Python, R, SAS, and VBA
 
-Requirements:
+**REQUIREMENTS**:
 
 1. Java 8+ - standard/base
 2. PHP 5+ - standard/base 
