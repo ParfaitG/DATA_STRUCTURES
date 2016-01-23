@@ -305,7 +305,7 @@ run;
   DATA SET:  
   two-dimensional data set structure
 */
-%Let fpath = D:\Freelance Work\Sandbox\DATA_STRUCTURES;
+%Let fpath = C:\Path\To\Working\Directory;
 
 data langdata;	
 	input languages $ uses $ ranking $;

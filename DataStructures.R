@@ -90,7 +90,7 @@ print(noperatingsystems)
 #####################################################
 ## MATRICES 
 ##   (SPECIAL CASE OF ARRAYS WITH ONLY 
-##    TWO DIMENSIONIONS: ROW BY COLUMN)
+##    TWO DIMENSIONS: ROW BY COLUMN)
 #####################################################
 langmatrix <- matrix(unlist(nlanguages), ncol=3, byrow=TRUE)
 writeLines('\nLANGUAGES MATRIX')
@@ -193,11 +193,11 @@ osdf <- data.frame(operatingsystems = unlist(oslist[,1]),
                    stringsAsFactors = FALSE)
 
 ## CSV OUTPUT
-write.csv(langdf, "D:\\Freelance Work\\Sandbox\\DATA_STRUCTURES\\Data\\Languages_R.csv",
+write.csv(langdf, "C:\\Path\\To\\Working\\Directory\\Data\\Languages_R.csv",
           row.names = FALSE)
-write.csv(dbdf, "D:\\Freelance Work\\Sandbox\\DATA_STRUCTURES\\Data\\Databases_R.csv",
+write.csv(dbdf, "C:\\Path\\To\\Working\\Directory\\Data\\Databases_R.csv",
          row.names = FALSE)
-write.table(osdf, "D:\\Freelance Work\\Sandbox\\DATA_STRUCTURES\\Data\\OperatingSystems_R.csv",
+write.table(osdf, "C:\\Path\\To\\Working\\Directory\\Data\\OperatingSystems_R.csv",
             sep = ",", row.names = FALSE, fileEncoding = 'UTF-8')
 
 writeLines("\nSuccessfully outputted data frames to csv!")
