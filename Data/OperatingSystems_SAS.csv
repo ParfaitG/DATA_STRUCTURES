@@ -1,0 +1,13 @@
+operatingsystems,type,kernel,marketshare
+Windows,desktop,NT,56.11
+Windows,desktop,NT,10.59
+Windows,desktop,NT,2.88
+Windows,desktop,NT,11.15
+Windows,desktop,NT,9
+Windows,desktop,NT,0
+Mac OS X,desktop,Unix,2.66
+Mac OS X,desktop,Unix,2.45
+Linux Mi,desktop,Linux,0
+Linux De,desktop,Linux,0
+Android,mobile,Linux,48.12
+iOS,mobile,Unix,34.71

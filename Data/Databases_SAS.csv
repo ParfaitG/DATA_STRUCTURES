@@ -1,0 +1,11 @@
+databases,type,size,ranking
+Oracle,Propriet,Server,1497.55
+SQL Serv,Propriet,Server,1123.16
+PostgreS,Open-Sou,Server,280.09
+MySQL,Open-Sou,Server,1298.54
+DB2,Propriet,Server,196.13
+SQLite,Open-Sou,File,100.85
+MS Acces,Propriet,File,140.21
+SAP Syba,Propriet,Server,81.47
+Teradata,Propriet,Server,75.72
+MongoDB,Open-Sou,Server,301.39

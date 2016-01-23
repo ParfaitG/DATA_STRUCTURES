@@ -1,0 +1,11 @@
+"databases","type","size","ranking"
+"Oracle","Proprietary","Server",1497.55
+"SQL Server","Proprietary","Server",1123.16
+"PostgreSQL","Open-Source","Server",280.09
+"MySQL","Open-Source","Server",1298.54
+"DB2","Proprietary","Server",196.13
+"SQLite","Open-Source","File",100.85
+"MS Access","Proprietary","File",140.21
+"SAP Sybase","Proprietary","Server",81.47
+"Teradata","Proprietary","Server",75.72
+"MongoDB","Open-Source","Server",301.39

@@ -1,0 +1,13 @@
+Operating Systems,Type,Kernel,Market Share
+Windows 7,desktop,NT,56.11
+Windows XP,desktop,NT,10.59
+Windows 8,desktop,NT,2.88
+Windows 8.1,desktop,NT,11.15
+Windows 10,desktop,NT,9
+Windows Vista,desktop,NT,0
+Mac OS X 11,desktop,Unix,2.66
+Mac OS X 10,desktop,Unix,2.45
+Linux Mint,desktop,Linux,0
+Linux Debian,desktop,Linux,0
+Android,mobile,Linux,48.12
+iOS,mobile,Unix,34.71
